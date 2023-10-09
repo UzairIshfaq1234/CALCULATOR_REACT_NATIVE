@@ -1,3 +1,7 @@
+# CALCULATOR IN REACT NATIVE
+
+![Screenshot_1696782983](https://github.com/UzairIshfaq1234/CALCULATOR_REACT_NATIVE/assets/61427327/d369cd8b-8edc-4791-b580-9963c60fcb08)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
